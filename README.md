@@ -6,7 +6,7 @@
 
 ## Run Locally
 
-- Clone This Project `git clone https://github.com/kavikavi-pro/Vehicle-count-prediction-using-Django.git`
+- Clone This Project `git clone https://github.com/kavigamer16/Vehicle-count-prediction-using-Django.git`
 - Create a Virtual Environment `py -m venv venv`
 - Activate Virtual Environment `venv\Scripts\activate`
 - Install dependencies `pip install django pandas scikit-learn numpy`
